@@ -1,7 +1,5 @@
 # Problem statements were prepared by kalvium community 
 
-There are n number of programs solved on different topics and concepts
-
 # Problem solving using programming
 Problem solving using programming involves breaking down a complex problem into smaller, more manageable pieces, and then using a programming language to develop a solution. 
 ## How can this be done?
@@ -23,7 +21,6 @@ Problem solving using programming involves breaking down a complex problem into 
 
 * Maintain and improve: 
     Finally, maintain the code over time and continue to improve it as needed based on changes to the problem or new requirements.
-   
 
-## Practice coding every day , atleast solve one problem every day to be more proficient in coding!!!
+## To be more proficient in coding, practice coding every day. Atleast solve one problem every day !!!
 # All the Best🫡
