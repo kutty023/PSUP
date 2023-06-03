@@ -1,5 +1,4 @@
 
-96.Program Development-Possible Right Triangle .py
 99.Program Development-Ordered Fractions.py
 101.Program Development-set matrix zeroe's.py
 102.Program Development-Two sum.py
