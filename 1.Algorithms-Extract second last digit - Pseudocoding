@@ -1,0 +1,9 @@
+# Pseudocode for printing the second last digit of the given numbers
+
+
+1.Read an integer value from the user and store it in a variable n
+2.Check IF n is less than 10
+   IF yes print an error message and exit the program
+3.ELSE divide the input with 10 and store it in  variable s 
+    now get the moduls of s 
+4.Print the value of s

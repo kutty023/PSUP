@@ -1,0 +1,8 @@
+# pseudocode to print the greatest of the 4 numbers
+
+1. Read four numbers from the user and store them in variables num1, num2, num3, and num4
+2. Set max_num to be equal to num1
+3. If num2 is greater than max_num, set max_num to be equal to num2
+4. If num3 is greater than max_num, set max_num to be equal to num3
+5. If num4 is greater than max_num, set max_num to be equal to num4
+6. Print max_num as the greatest of the four numbers

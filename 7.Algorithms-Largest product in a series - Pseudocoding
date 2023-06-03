@@ -1,0 +1,11 @@
+# Largest product in a series - Pseudocoding
+
+1. Define the series of numbers as a string
+2. Define the length of the series
+3. Define the number of adjacent digits to multiply
+4. Define a variable to keep track of the largest product
+5. Loop through each digit in the series, up to (length - adjacent + 1)
+6. Within the loop, convert the adjacent digits to a list of integers
+7. Calculate the product of the integers in the list
+8. If the product is larger than the current largest product, update the largest product
+9. After the loop completes, return the largest product

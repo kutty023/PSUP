@@ -1,0 +1,5 @@
+# Pseudocode for extracting the first digit post the decimal point
+
+1. Read a floating-point value from the user and store it in a variable n
+2. Multiply the given input with ten and store it in the varable s as integer
+3. Get the moduls of s 

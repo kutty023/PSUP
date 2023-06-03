@@ -1,0 +1,7 @@
+# Number letter Counts - Pseudocoding
+
+1. Read the input from the user and store it in the valriable n 
+2. Use FOR LOOP to get the each digit from the input
+3. Use IF ELSE staements to count the letter of each words and the add them to the variable value
+    to get the count of letters of numbers in word form, group them based on the len of the words 
+4. Print the value

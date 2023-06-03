@@ -1,0 +1,10 @@
+# Pseudocode for printing the gr1des
+
+1. Read the numeric score from the user and store it in a variable n
+2. If n is greater than or equal to 81 and less than or equal to 100, print "S"
+3. Otherwise, if n is greater than or equal to 71 and less than or equal to 80, print "A"
+3. Otherwise, if n is greater than or equal to 61 and less than or equal to 70, print "B"
+4. Otherwise, if n is greater than or equal to 51 and less than or equal to 60, print "C"
+5. Otherwise, if n is greater than or equal to 40 and less than or equal to 50, print "D"
+3. Otherwise, if n is greater than or equal to 0 and less than or equal to 39, print "F"
+6. Otherwise, print "Invalid number"
