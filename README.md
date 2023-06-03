@@ -2,7 +2,7 @@
 
 # Problem solving using programming
 Problem solving using programming involves breaking down a complex problem into smaller, more manageable pieces, and then using a programming language to develop a solution. 
-## How can this be done?
+### How can this be done?
 * Define the problem: 
     Clearly understand the problem that needs to be solved. Define the input, output, constraints, and requirements for the solution.
 
