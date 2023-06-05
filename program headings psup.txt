@@ -1,6 +1,0 @@
-
-99.Program Development-Ordered Fractions.py
-101.Program Development-set matrix zeroe's.py
-102.Program Development-Two sum.py
-103.Program Development-Game Development - Description & Pseudocode.py
-104.Program Development-Game Development - Code submission.py
