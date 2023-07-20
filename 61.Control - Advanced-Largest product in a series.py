@@ -21,4 +21,4 @@ for i in range(len(numbers) - k + 1):
     # Compare the product with the largest product found so far
     if product > largest:
         largest = product
-        print(largest)
+print(largest)
